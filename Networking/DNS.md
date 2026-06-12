@@ -1,0 +1,2 @@
+What is DNS?
+DNS (Domain Name System) converts a domain name into an IP address. For any human being, to remember a domain is easy as compared to remember an IP address, but a system need an IP address to connect to that server. So, to make this process simple DNS comes in a picture. DNS server stores the data table of domain names with it's IP addresses.
